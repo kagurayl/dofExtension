@@ -1,0 +1,4 @@
+LIBRARY dofExtension
+EXPORTS
+    StartHook @1
+    StopHook  @2

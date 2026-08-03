@@ -1,0 +1,38 @@
+# ===== Build =====
+build/
+cmake-build-*/
+out/
+bin/
+lib/
+dist/
+
+# ===== Visual Studio =====
+.vs/
+*.suo
+*.user
+*.vcxproj*
+*.pdb
+*.ilk
+*.obj
+*.idb
+
+# ===== Qt =====
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+
+# ===== Logs / temp =====
+*.log
+*.tmp
+node_modules/
+package-lock.json
+
+# ===== OS =====
+Thumbs.db
+.DS_Store
+
+# ===== Go =====
+.gocache/
+.gomodcache/
+.gopath/
+Microsoft/Windows/PowerShell/ModuleAnalysisCache

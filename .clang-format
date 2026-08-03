@@ -1,0 +1,25 @@
+UseTab: Never
+SortIncludes: Never
+IndentWidth: 4
+NamespaceIndentation: All
+AccessModifierOffset: -4
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+  AfterClass: true
+  AfterStruct: true
+  AfterUnion: true
+  AfterControlStatement: true
+  AfterExternBlock: true
+  BeforeElse: true
+  BeforeCatch: true
+  BeforeLambdaBody: false
+IndentExternBlock: AfterExternBlock
+# 连续注
+ColumnLimit: 0
+# 连续赋值对齐
+AlignConsecutiveAssignments: true
+# 连续声明对齐
+AlignConsecutiveDeclarations: true
+# 连续宏定义对其
+AlignConsecutiveMacros: true

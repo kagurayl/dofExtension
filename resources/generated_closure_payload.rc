@@ -1,0 +1,3 @@
+#include "resource.h"
+
+IDR_GENERATED_CLOSURES RCDATA "..\\generated\\all_closures.bin"
